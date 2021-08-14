@@ -1,9 +1,4 @@
 # Breath Tracking System
 
-***Minio Storage***
-
-***ELK Monitor***
-
-***Breath Classification***
-
-***Breath Detection***
+# 1. Application pipeline
+![alt text](https://github.com/datdao1998/breath-tracking/blob/main/report/SystemArchitecture.png)
